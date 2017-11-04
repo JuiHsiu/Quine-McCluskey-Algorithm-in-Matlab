@@ -20,7 +20,7 @@ f(a, b, c, d) = m(0, 2, 4, 5, 6, 9, 10) + d(7, 11, 12, 13 ,14, 15)
  - Output : logic type      
         - f(a, b, c, d) = a’d’ + b + ad + cd’  or a’d’ + b + ad + ac 
         
-## some test data
+## Test data
 
 ### 4 variables:
 
