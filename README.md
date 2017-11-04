@@ -1,4 +1,10 @@
 # Quine-McCluskey-Algorithm-in-Matlab
+This file implements Quine McCluskey Algorithm used for minimization of Boolean functions in Matlab.
+
+At first, We need to set the minterm and don't care term on the top of the code. Then run the file and result will be printed on the command window.
+
+There are some examples and test data in the following. In fact, it also works for more than 6 variables. 
+
 ## 4, 5, 6 variables and should consider  “ Don’t Care ”
 
 For example:
