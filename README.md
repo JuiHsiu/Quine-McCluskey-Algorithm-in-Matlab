@@ -1,5 +1,5 @@
 # Quine-McCluskey-Algorithm-in-Matlab
-This file implements Quine McCluskey Algorithm used for minimization of Boolean functions in Matlab.
+This file implements Quine McCluskey Algorithm used for minimization of Boolean functions.
 
 At first, We need to set the minterm and don't care term on the top of the code. Then run the file and result will be printed on the command window.
 
